@@ -13,3 +13,5 @@ In the Kindle:
 * Kual 2 (for Launcher and convenient USBNet)  
 
 License: MIT for Code and CC-BY-SA for Artwork
+
+![WeatherDisplay at work.](./Kindle/weather/screen.png "WeatherDisplay at work.")
