@@ -11,3 +11,5 @@ In the Kindle:
 *Jailbrake
 *USB Networking (for truble shooting)
 *Kual 2 (for Launcher and convenient USBNet)
+
+License: MIT for Code and CC-BY-SA for Artwork
