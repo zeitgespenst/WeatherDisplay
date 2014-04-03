@@ -1,0 +1,7 @@
+<svg:g
+	transform="translate(0,100)">
+   <svg:path
+       d="m 142.88417,51.351293 c -56.85907,0 -103.042526,46.21193 -103.042526,103.070997 0,37.3815 19.961331,70.14172 49.798667,88.20827 -5.765467,12.3096 -9.02583,26.2912 -9.02583,41.11451 0,6.31298 0.613221,12.47777 1.736832,18.42181 l 423.502217,0 c -0.86783,-51.04131 -38.55081,-92.10903 -84.90545,-92.10903 -13.72845,0 -26.67758,3.59572 -38.15335,9.9939 -9.96772,-50.86991 -50.90562,-88.97704 -99.88206,-88.97704 -13.47907,0 -26.34499,2.89642 -38.12488,8.14318 C 237.43512,89.547373 194.58127,51.351293 142.88417,51.351293 z m 0,9.50986 c 48.13075,0 87.67096,36.20578 92.93473,82.912367 -20.85114,12.0084 -37.50626,31.72792 -46.83751,55.74945 -8.57362,-3.42055 -17.80794,-5.26744 -27.44764,-5.26744 -28.15247,0 -52.93235,15.91173 -67.423232,40.03254 -26.876875,-16.42599 -44.787481,-46.01646 -44.787481,-79.86578 0,-51.72784 41.833289,-93.561137 93.561133,-93.561137 z"
+       id="path8"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+	</svg:g>

@@ -1,0 +1,56 @@
+     <svg:path
+         d="m 92.96875,-0.03125 c -35.93167,0 -65.125,29.19333 -65.125,65.125 0,9.082531 1.882114,17.734957 5.25,25.59375 C 12.625727,108.67764 -0.5,136.45407 -0.5,167.625 c 0,6.92878 0.641788,13.69491 1.875,20.21875 l 55.8125,0 L 86,141.0625 l 8.6875,5 -25.90625,41.78125 397.4375,-0.0312 c -0.95248,-56.0201 -42.31122,-101.09375 -93.1875,-101.09375 -15.06759,0 -29.27983,3.97772 -41.875,11 -10.94001,-55.83198 -55.87118,-97.6875 -109.625,-97.6875 -28.11772,0 -53.82062,11.463238 -73.5,30.375 -11.53239,-18.275721 -31.8783,-30.4375 -55.0625,-30.4375 z m -24.1875,187.875 -11.59375,0 -45.84375,74.4375 -6.03125,10.46875 11.65625,-3.125 45.0625,-12.09375 -43.15625,74.75 8.65625,5 49.1875,-85.1875 6.03125,-10.46875 -11.65625,3.125 -45.0625,12.09375 42.75,-69 z m 24.1875,-181.875 c 21.60742,0 40.44491,11.540603 50.75,28.8125 -10.68442,11.393974 -19.33643,25.10245 -25.28125,40.40625 -9.40993,-3.7542 -19.54501,-5.78125 -30.125,-5.78125 -18.710389,0 -36.061934,6.418848 -50.375,17.34375 -2.637756,-6.707275 -4.09375,-14.005031 -4.09375,-21.65625 0,-32.68903 26.43597,-59.125 59.125,-59.125 z"
+         transform="translate(84.782256,163.73521)"
+         id="path4827-4"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <svg:g
+       transform="translate(-72.241071,18.450336)"
+       id="g4808"
+       style="fill:#000000">
+      <svg:path
+         d="m 185.72517,469.7362 -3.66025,-13.66026 -8.83975,35.31089 26.16025,-25.31089 -13.66025,3.66026 z"
+         id="path4814"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2pt;marker-start:none" />
+    </svg:g>
+    <svg:g
+       transform="matrix(-0.16177078,-0.60373676,0.60373676,-0.16177078,276.544,801.32636)"
+       id="g3782">
+      <svg:path
+         d="m 407.87168,441.67961 c 107.07617,0 133.68492,0 133.68492,0"
+         id="path2998"
+         style="fill:none;stroke:#000000;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 441.29291,499.56688 C 494.831,406.8362 508.13537,383.79234 508.13537,383.79234"
+         id="path3778"
+         style="fill:none;stroke:#000000;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 508.13537,499.56688 C 454.59729,406.83619 441.29291,383.79234 441.29291,383.79234"
+         id="path3780"
+         style="fill:none;stroke:#000000;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="m 431.33513,289.01004 a 29.294424,29.294424 0 1 1 -58.58884,0 29.294424,29.294424 0 1 1 58.58884,0 z"
+         transform="matrix(0.95587478,0,0,0.95587478,90.525313,165.29594)"
+         id="path2994"
+         style="fill:#ffffff;stroke:#000000;stroke-width:27.61269188;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </svg:g>
+    <svg:g
+       transform="matrix(-0.16177078,-0.60373676,0.60373676,-0.16177078,98.544,801.32636)"
+       id="g2994">
+      <svg:path
+         d="m 407.87168,441.67961 c 107.07617,0 133.68492,0 133.68492,0"
+         id="path2996"
+         style="fill:none;stroke:#000000;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 441.29291,499.56688 C 494.831,406.8362 508.13537,383.79234 508.13537,383.79234"
+         id="path2999"
+         style="fill:none;stroke:#000000;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 508.13537,499.56688 C 454.59729,406.83619 441.29291,383.79234 441.29291,383.79234"
+         id="path3001"
+         style="fill:none;stroke:#000000;stroke-width:32;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="m 431.33513,289.01004 a 29.294424,29.294424 0 1 1 -58.58884,0 29.294424,29.294424 0 1 1 58.58884,0 z"
+         transform="matrix(0.95587478,0,0,0.95587478,90.525313,165.29594)"
+         id="path3003"
+         style="fill:#ffffff;stroke:#000000;stroke-width:27.61269188;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </svg:g>

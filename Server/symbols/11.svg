@@ -1,0 +1,26 @@
+    <svg:path
+       d="M 433.1809,373.43391 366.21576,502.80886"
+       id="path3010"
+       style="fill:none;stroke:#000000;stroke-width:9.52587605;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <svg:path
+       d="M 328.27503,373.43391 261.3099,502.80886"
+       id="path3016"
+       style="fill:none;stroke:#000000;stroke-width:9.52587605;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <svg:path
+       d="M 538.08677,369.12221 471.12164,498.49716"
+       id="path3018"
+       style="fill:none;stroke:#000000;stroke-width:9.52587605;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <svg:g
+       transform="matrix(0.90195426,0,0,1.0060634,-4.5924176,9.1479887)"
+       id="g4808"
+       style="fill:#000000">
+      <svg:path
+         d="m 285.46875,0.59375 c -51.13851,0 -95.04759,30.9725 -114.03125,75.15625 -10.40794,-3.7542 -21.64166,-5.78125 -33.34375,-5.78125 -54.25108,0 -98.1875,43.96767 -98.1875,98.21875 0,6.92878 0.698496,13.69491 2.0625,20.21875 l 110.3125,0 33.0625,-53.6875 8.6875,5 -30.15625,48.6875 392.21875,-0.0312 c -1.05349,-56.02015 -46.79034,-101.0938 -103.0625,-101.0938 -16.66564,0 -32.38151,3.97772 -46.3125,11 -12.1003,-55.83198 -61.79512,-97.6875 -121.25,-97.6875 z m -121.59375,187.8125 -11.59375,0 -41.59375,67.53125 -6.03125,10.46875 11.65625,-3.125 45.0625,-12.09375 -43.15625,74.75 8.65625,5 49.1875,-85.1875 6.03125,-10.46875 -11.65625,3.125 -45.0625,12.09375 38.5,-62.09375 z"
+         transform="translate(57.187824,151.67972)"
+         id="path4616"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <svg:path
+         d="m 185.72517,469.7362 -3.66025,-13.66026 -8.83975,35.31089 26.16025,-25.31089 -13.66025,3.66026 z"
+         id="path4814"
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:2pt;marker-start:none" />
+    </svg:g>

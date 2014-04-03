@@ -1,0 +1,11 @@
+{
+    "items": [
+        {
+        "name": "WeatherDisplay",
+        "priority": 0,
+        "items": [
+			{"name": "Toggle WeatherDisplay", "action": "./bin/toggle.sh","exitmenu": false, "checked": true, "internal": "toogle between WeatherDisplay and normal Kidle"}
+        ]
+        }
+    ]
+}  

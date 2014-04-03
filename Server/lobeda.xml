@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<vdv453:DatenAbrufenAntwort xmlns:vdv453="vdv453ger">
+   <Bestaetigung Zst="2014-02-13T22:05:08" Ergebnis="ok" Fehlernummer="0"/>
+   <AZBNachricht AboID="1">
+      <AZBFahrplanlage Zst="2014-02-13T22:05:08">
+         <AZBID>16103</AZBID>
+         <FahrtID>
+            <FahrtBezeichner>-18569603</FahrtBezeichner>
+            <Betriebstag>2014-02-13</Betriebstag>
+         </FahrtID>
+         <HstSeqZaehler>10</HstSeqZaehler>
+         <LinienID>34</LinienID>
+         <LinienText>34</LinienText>
+         <RichtungsID>118</RichtungsID>
+         <RichtungsText>Lobeda-Ost über Winzerla</RichtungsText>
+         <ZielHst>Lobeda-Ost</ZielHst>
+         <FahrtStatus>Ist</FahrtStatus>
+         <AnkunftszeitAZBPlan>2014-02-13T22:13:00</AnkunftszeitAZBPlan>
+         <AnkunftszeitAZBPrognose>2014-02-13T22:13:37</AnkunftszeitAZBPrognose>
+         <AbfahrtszeitAZBPlan>2014-02-13T22:13:00</AbfahrtszeitAZBPlan>
+         <AbfahrtszeitAZBPrognose>2014-02-13T22:13:37</AbfahrtszeitAZBPrognose>
+         <FahrtInfo>
+            <FahrzeugID>609</FahrzeugID>
+         </FahrtInfo>
+      </AZBFahrplanlage>
+   </AZBNachricht>
+</vdv453:DatenAbrufenAntwort>

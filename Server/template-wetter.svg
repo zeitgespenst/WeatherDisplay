@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="600"
+   height="800"
+   id="svg2">
+  <svg:defs
+     id="defs4" />
+  <svg:metadata
+     id="metadata7">
+    <rdf:RDF>
+      <Work
+         rdf:about="">
+        <format>image/svg+xml</format>
+        <type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <title />
+      </Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+<!--   Bus und Bahnen
+  Überschrift -->
+  <svg:text
+     x="40"
+     y="55"
+     id="text2987"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"><svg:tspan
+       x="40"
+       y="55"
+       id="tspan2989">Linie</svg:tspan></svg:text>
+  <svg:text
+     x="140"
+     y="55"
+     id="text2997"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"><svg:tspan
+       x="140"
+       y="55"
+       id="tspan2999">Ziel</svg:tspan></svg:text>
+  <svg:text
+     x="440"
+     y="55"
+     id="text3001"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"><svg:tspan
+       x="440"
+       y="55"
+       id="tspan3003">Abfahrt</svg:tspan></svg:text>
+  <!-- Bus und Bahnnen
+	 Abfahrt 1-->
+  <svg:text
+     x="40"
+     y="90"
+     id="text3007"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="40"
+       y="90"
+       id="tspan3009">LINE0</svg:tspan></svg:text>
+  <svg:text
+     x="140"
+     y="90"
+     id="text3093"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="140"
+       y="90"
+       id="tspan3095">ZIEL0</svg:tspan></svg:text>	   
+  <svg:text
+     x="440"
+     y="90"
+     id="text3113"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="440"
+       y="90"
+       id="tspan3115">TIME0</svg:tspan></svg:text>
+  <!--Abfahrt 2-->
+  <svg:text
+     x="40"
+     y="125"
+     id="text3023"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="40"
+       y="125"
+       id="tspan3025">LINE1</svg:tspan></svg:text>
+  <svg:text
+     x="140"
+     y="125"
+     id="text3101"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="140"
+       y="125"
+       id="tspan3103">ZIEL1</svg:tspan></svg:text>
+  <svg:text
+     x="440"
+     y="125"
+     id="text3117"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="440"
+       y="125"
+       id="tspan3119">TIME1</svg:tspan></svg:text>
+<!--Abfahrt 3-->   
+  <svg:text
+     x="40"
+     y="160"
+     id="text3011"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="40"
+       y="160"
+       id="tspan3013">LINE2</svg:tspan></svg:text>
+  <svg:text
+     x="140"
+     y="160"
+     id="text3097"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="140"
+       y="160"
+       id="tspan3099">ZIEL2</svg:tspan></svg:text>	   
+  <svg:text
+     x="440"
+     y="160"
+     id="text3121"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="440"
+       y="160"
+       id="tspan3123">TIME2</svg:tspan></svg:text>	   
+  <!--Abfahrt 4-->
+  <svg:text
+     x="40"
+     y="195"
+     id="text3015"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="40"
+       y="195"
+       id="tspan3017">LINE3</svg:tspan></svg:text>
+  <svg:text
+     x="140"
+     y="195"
+     id="text3109"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="140"
+       y="195"
+       id="tspan3111">ZIEL3</svg:tspan></svg:text>	   
+  <svg:text
+     x="440"
+     y="195"
+     id="text3133"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="440"
+       y="195"
+       id="tspan3135">TIME3</svg:tspan></svg:text>	   
+  <!--Abfahrt 5-->   
+  <svg:text
+     x="40"
+     y="230"
+     id="text3019"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="40"
+       y="230"
+       id="tspan3021">LINE4</svg:tspan></svg:text>
+  <svg:text
+     x="140"
+     y="230"
+     id="text3105"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="140"
+       y="230"
+       id="tspan3107">ZIEL4</svg:tspan></svg:text>	   
+  <svg:text
+     x="440"
+     y="230"
+     id="text3125"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="440"
+       y="230"
+       id="tspan3127">TIME4</svg:tspan></svg:text>	   
+  <!--Abfahrt 6-->	   
+  <svg:text
+     x="40"
+     y="265"
+     id="text3043"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="40"
+       y="265"
+       id="tspan3045">LINE5</svg:tspan></svg:text>   
+  <svg:text
+     x="140"
+     y="265"
+     id="text3085"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="140"
+       y="265"
+       id="tspan3087">ZIEL5</svg:tspan></svg:text>
+  <svg:text
+     x="440"
+     y="265"
+     id="text3129"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="440"
+       y="265"
+       id="tspan3131">TIME5</svg:tspan></svg:text>
+  <!--Abfahrt 7-->	   
+  <svg:text
+     x="40"
+     y="300"
+     id="text3019-4"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="40"
+       y="300"
+       id="tspan3021-0">LINE6</svg:tspan></svg:text>
+  <svg:text
+     x="140"
+     y="300"
+     id="text3081"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="140"
+       y="300"
+       id="tspan3083">ZIEL6</svg:tspan></svg:text>
+  <svg:text
+     x="440"
+     y="300"
+     id="text3137"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="440"
+       y="300"
+       id="tspan3139">TIME6</svg:tspan></svg:text>	   
+  <!--Abfahrt 8-->
+  <svg:text
+     x="40"
+     y="335"
+     id="text3019-1"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="40"
+       y="335"
+       id="tspan3021-7">LINE7</svg:tspan></svg:text>
+  <svg:text
+     x="140"
+     y="335"
+     id="text3089"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="140"
+       y="335"
+       id="tspan3091">ZIEL7</svg:tspan></svg:text>
+  <svg:text
+     x="440"
+     y="335"
+     id="text3141"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="440"
+       y="335"
+       id="tspan3143">TIME7</svg:tspan></svg:text>
+<!-- 	Ende Bus und Bahn
+	Anfang Wetter -->
+  <svg:text
+     x="40"
+     y="390"
+     id="text3151"
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"><svg:tspan
+       x="40"
+       y="390"
+       id="tspan3153">aktuelles Wetter:</svg:tspan></svg:text>
+  <!-- Temperatur -->
+  <svg:text
+     x="105"
+     y="460"
+     id="text3147"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="105"
+       y="460"
+       id="tspan3149"
+       style="font-size:48px">4 °C</svg:tspan></svg:text>
+<!--Thermometer-->
+   <svg:g
+     transform="matrix(0.75,0,0,0.75,29.5215,410.71675)"
+     id="g2988">
+    <svg:path
+       d="m 49.996,3.647 c 3.024,0 5.473,2.449 5.473,5.469 v 67.512 c 3.088,1.868 5.169,5.217 5.169,9.083 0,5.881 -4.76,10.643 -10.638,10.643 -5.874,0 -10.638,-4.762 -10.638,-10.643 0,-3.866 2.082,-7.211 5.165,-9.075 V 9.116 c 0,-3.02 2.449,-5.469 5.469,-5.469 M 49.996,0 C 44.972,0 40.88,4.09 40.88,9.116 v 65.646 c -3.269,2.69 -5.165,6.653 -5.165,10.949 0,7.878 6.408,14.289 14.285,14.289 7.881,0 14.285,-6.411 14.285,-14.289 0,-4.3 -1.896,-8.259 -5.164,-10.953 V 9.116 C 59.121,4.09 55.027,0 49.996,0 l 0,0 z"
+       id="path3" />
+    <svg:path
+       d="M 51.87,78.176 V 37.442 c 0,-1.595 -0.831,-2.345 -1.866,-2.345 -1.028,0 -1.863,0.75 -1.863,2.345 v 40.734 c -3.202,0.828 -5.573,3.73 -5.573,7.19 0,4.115 3.332,7.447 7.436,7.447 4.107,0 7.438,-3.332 7.438,-7.447 0,-3.459 -2.369,-6.36 -5.572,-7.19 z"
+       id="path5" />
+  </svg:g>
+  <!--Luftfeuchtigkeit-->
+  <svg:text
+     x="72"
+     y="530"
+     id="text3155"
+     xml:space="preserve"
+     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="72"
+       y="530"
+       id="tspan3157">87 %</svg:tspan></svg:text>
+<!--Tropfen-->
+  <svg:g
+     transform="matrix(0.16007811,0,0,0.16007811,27.281551,494.44529)"
+     id="g2996">
+    <svg:path
+       d="M 225.30145,158.89414 C 222.88733,144.94846 211.61479,132.44546 205.28041,120.0293 195.19899,100.2683 189.67174,83.621373 189.67174,83.621373 l 2.6e-4,0 c 0,0 -5.52726,16.646647 -15.60867,36.407927 -6.33439,12.41616 -17.60692,24.91916 -20.02081,38.86484 -10.40611,60.11495 81.78665,60.81985 71.25893,0 z"
+       id="path1880_2_"
+       style="fill:#000000;fill-opacity:1;display:inline" />
+    <svg:path
+       d="m 137.86677,206.63432 c -1.9555,-10.43858 -11.0865,-19.79727 -16.21748,-29.09096 -8.16617,-14.79143 -12.64336,-27.25192 -12.64336,-27.25192 l 2e-4,0 c 0,0 -4.47719,12.46027 -12.643362,27.25192 -5.130983,9.29369 -14.261976,18.65238 -16.217289,29.09096 -8.429169,44.99699 66.248971,45.52461 57.721291,0 z"
+       id="path2992"
+       style="fill:#000000;fill-opacity:1;display:inline" />
+    <svg:path
+       d="m 146.6346,113.12023 c -1.23418,-6.58812 -6.99705,-12.49468 -10.23537,-18.360223 -5.15393,-9.335342 -7.97962,-17.199549 -7.97962,-17.199549 l 1.3e-4,0 c 0,0 -2.82571,7.864078 -7.97963,17.199549 -3.23833,5.865543 -9.00119,11.772103 -10.23525,18.360223 -5.31992,28.39902 41.81183,28.73202 36.42974,0 z"
+       id="path2994"
+       style="fill:#000000;fill-opacity:1;display:inline" />
+  </svg:g>
+  <!--Wind-->
+  <svg:text
+     x="300"
+     y="530"
+     id="text3159"
+     xml:space="preserve"
+     style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="300"
+       y="530"
+       id="tspan3161"
+       style="font-size:28px;text-align:end;text-anchor:end">1 m/s</svg:tspan></svg:text>
+  <!--Windsymbol-->
+  <svg:g
+     transform="matrix(0.4308267,0,0,0.4308267,167.65638,511.37694)"
+     id="g2985">
+    <svg:g
+       transform="translate(-2.7485417,-27.779514)"
+       id="Captions" />
+    <svg:path
+       d="m 84.475599,7.4033794 c 1.05,0.417 2.039,0.032 2.211,-0.959 0.172,-0.988 -0.541,-2.236 -1.591,-2.686 -27.619,-11.808 -55.239,25.6749996 -82.8589998,-2.76600004 -1.049,-1.076 -2.03899998,-1.345 -2.21099998,-0.469 -0.172,0.87300004 0.541,2.60100004 1.58999998,3.72000004 27.6199998,29.4359996 55.2399998,-7.916 82.8599998,3.16 z"
+       id="path6" />
+    <svg:path
+       d="m 91.321211,24.657379 c -27.62,-29.4359996 -55.24,7.918 -82.8589997,-3.159 -1.05,-0.416 -2.0400004,-0.031 -2.2110004,0.959 -0.171,0.987 0.541,2.236 1.5910004,2.687 27.6189997,11.809 55.2389997,-25.67699964 82.8579997,2.767 1.05,1.074 2.04,1.345 2.211,0.468 0.17,-0.874 -0.54,-2.602 -1.59,-3.722 z"
+       id="path10" />
+    <svg:path
+       d="m 86.605458,30.257486 c -27.619,-17.181 -55.239,20.855 -82.8589997,-1.114 -1.05,-0.829 -2.039,-0.856 -2.211,0.062 -0.171,0.916 0.542,2.464 1.592,3.335 27.6189997,22.875 55.2379997,-15.118 82.8579997,1.242 1.049,0.617 2.039,0.434 2.21,-0.523 0.173,-0.952 -0.54,-2.348 -1.59,-3.002 z"
+       id="path12" />
+  </svg:g>
+  <!--Vorhersage-->
+  <svg:text
+     x="320"
+     y="390"
+     id="text3167"
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Bold"><svg:tspan
+       x="320"
+       y="390"
+       id="tspan3169">Vorhersage:</svg:tspan></svg:text>
+<!--0h-->
+  <svg:text
+     x="320"
+     y="430"
+     id="text3173"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="320"
+       y="430"
+       id="tspan3175">Nachmittag:</svg:tspan></svg:text>
+  <svg:g
+     transform="translate(22.457031,0)"
+     id="g3185">
+    <svg:text
+       x="392.54297"
+       y="480"
+       id="text3177"
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+         x="392.54297"
+         y="480"
+         id="tspan3179">18 °C</svg:tspan></svg:text>
+  </svg:g>
+  <svg:text
+     x="565"
+     y="480"
+     id="text3181"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="565"
+       y="480"
+       id="tspan3183">0 l/m²</svg:tspan></svg:text>
+<!--6h-->
+  <svg:text
+     x="320"
+     y="530"
+     id="text3209"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="320"
+       y="530"
+       id="tspan3211">1. Nachthälfte:</svg:tspan></svg:text>
+  <svg:g
+     transform="translate(1.2753906,100)"
+     id="g3213">
+    <svg:text
+       x="413.72461"
+       y="480"
+       id="text3215"
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+         x="413.72461"
+         y="480"
+         id="tspan3217">18 °C</svg:tspan></svg:text>
+  </svg:g>
+  <svg:text
+     x="565"
+     y="580"
+     id="text3219"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="565"
+       y="580"
+       id="tspan3221">0 l/m²</svg:tspan></svg:text>
+<!--12h-->
+  <svg:text
+     x="320"
+     y="630"
+     id="text3225"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="320"
+       y="630"
+       id="tspan3227">2. Nachthälfte:</svg:tspan></svg:text>
+  <svg:g
+     transform="translate(9.9941406,200)"
+     id="g3229">
+    <svg:text
+       x="405.00586"
+       y="480"
+       id="text3231"
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+         x="405.00586"
+         y="480"
+         id="tspan3233">7 °C</svg:tspan></svg:text>
+  </svg:g>
+  <svg:text
+     x="565"
+     y="680"
+     id="text3235"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="565"
+       y="680"
+       id="tspan3237">0 l/m²</svg:tspan></svg:text>
+<!--Sonnenauf- und untergang-->
+  <svg:text
+     x="110.35153"
+     y="675"
+     id="text3264"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="110.35153"
+       y="675"
+       id="tspan3266">06:52</svg:tspan></svg:text>
+  <svg:text
+     x="270.99805"
+     y="675"
+     id="text3268"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="270.99805"
+       y="675"
+       id="tspan3270">19:44</svg:tspan></svg:text>
+<!--Sonnenauf- und untergangsymbol-->
+  <svg:path
+     d="M -204.49765,612.86921 C -192.27201,576.33162 -157.77064,550 -117.1192,550 c 40.538743,0 74.961458,26.18582 87.276252,62.56556"
+     transform="matrix(0.85280377,0,0,0.85280377,264.8797,97.380013)"
+     id="path4001"
+     style="fill:none;stroke:#666666;stroke-width:5.19999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.19999973, 5.19999973;stroke-dashoffset:3.63999981" />
+  <svg:g
+     transform="matrix(0.25009928,0,0,0.25009928,45.966649,617.34292)"
+     id="g3795">
+    <svg:path
+       d="m 111.42857,130.57646 a 44.642857,44.642857 0 0 1 89.28571,0 l -44.64285,0 z"
+       id="path2985-3"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <svg:g
+       id="g3775">
+      <svg:path
+         d="m 40,129.50504 c 52.857143,0 52.857143,0 52.857143,0"
+         id="path2987-1"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 55.794886,71.007105 C 101.5705,97.435685 101.5705,97.435685 101.5705,97.435685"
+         id="path3767"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 98.392854,28.581508 C 124.82142,74.357147 124.82142,74.357147 124.82142,74.357147"
+         id="path3769"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="m 156.42857,13.076475 c 0,52.857153 0,52.857153 0,52.857153"
+         id="path3771"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </svg:g>
+    <svg:path
+       d="M 214.85508,28.871359 C 188.4265,74.646973 188.4265,74.646973 188.4265,74.646973"
+       id="path3785"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <svg:path
+       d="M 257.28067,71.469327 C 211.50503,97.897893 211.50503,97.897893 211.50503,97.897893"
+       id="path3787"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <svg:path
+       d="m 272.7857,129.50504 c -52.85715,0 -52.85715,0 -52.85715,0"
+       id="path3789"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+  </svg:g>
+ <svg:g
+     transform="matrix(0.25009928,0,0,0.25009928,205.96665,617.34292)"
+     id="g3977">
+    <svg:path
+       d="m 111.42857,130.57646 a 44.642857,44.642857 0 0 1 89.28571,0 l -44.64285,0 z"
+       id="path3979"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <svg:g
+       id="g3981">
+      <svg:path
+         d="m 40,129.50504 c 52.857143,0 52.857143,0 52.857143,0"
+         id="path3983"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 55.794886,71.007105 C 101.5705,97.435685 101.5705,97.435685 101.5705,97.435685"
+         id="path3985"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 98.392854,28.581508 C 124.82142,74.357147 124.82142,74.357147 124.82142,74.357147"
+         id="path3987"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="m 156.42857,13.076475 c 0,52.857153 0,52.857153 0,52.857153"
+         id="path3989"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </svg:g>
+    <svg:path
+       d="M 214.85508,28.871359 C 188.4265,74.646973 188.4265,74.646973 188.4265,74.646973"
+       id="path3991"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <svg:path
+       d="M 257.28067,71.469327 C 211.50503,97.897893 211.50503,97.897893 211.50503,97.897893"
+       id="path3993"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    <svg:path
+       d="m 272.7857,129.50504 c -52.85715,0 -52.85715,0 -52.85715,0"
+       id="path3995"
+       style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+  </svg:g>
+<!--Credits-->
+  <svg:text
+     x="117.49231"
+     y="779.68652"
+     id="text3272"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="117.49231"
+       y="779.68652"
+       id="tspan3274"
+       style="font-size:16px">Værvarsel fra yr.no, levert av NRK og Meteorologisk institutt.</svg:tspan></svg:text>
+<!--Symbole noch an richtige Stelle schieben-->
+<!--0h-->
+  <svg:g
+     transform="matrix(0.135,0,0,0.135,412,425)"
+	 id="symbol1">
+	 <svg:g
+	transform="translate(0,100)">
+    <svg:path
+       d="m 355.71428,192.36218 a 197.14285,197.14285 0 1 1 -394.285706,0 197.14285,197.14285 0 1 1 394.285706,0 z"
+       transform="matrix(0.8259093,0,0,0.8259093,134.84503,-234.00145)"
+       id="path2985"
+       style="fill:none;stroke:#000000;stroke-width:26.99041748" />
+	</svg:g>
+  </svg:g>
+ <!--6h-->
+   <svg:g
+     transform="matrix(0.135,0,0,0.135,412,525)"
+	 id="symbol2">
+	 <svg:g
+	transform="translate(0,100)">
+   <svg:path
+       d="m 142.88417,51.351293 c -56.85907,0 -103.042526,46.21193 -103.042526,103.070997 0,37.3815 19.961331,70.14172 49.798667,88.20827 -5.765467,12.3096 -9.02583,26.2912 -9.02583,41.11451 0,6.31298 0.613221,12.47777 1.736832,18.42181 l 423.502217,0 c -0.86783,-51.04131 -38.55081,-92.10903 -84.90545,-92.10903 -13.72845,0 -26.67758,3.59572 -38.15335,9.9939 -9.96772,-50.86991 -50.90562,-88.97704 -99.88206,-88.97704 -13.47907,0 -26.34499,2.89642 -38.12488,8.14318 C 237.43512,89.547373 194.58127,51.351293 142.88417,51.351293 z m 0,9.50986 c 48.13075,0 87.67096,36.20578 92.93473,82.912367 -20.85114,12.0084 -37.50626,31.72792 -46.83751,55.74945 -8.57362,-3.42055 -17.80794,-5.26744 -27.44764,-5.26744 -28.15247,0 -52.93235,15.91173 -67.423232,40.03254 -26.876875,-16.42599 -44.787481,-46.01646 -44.787481,-79.86578 0,-51.72784 41.833289,-93.561137 93.561133,-93.561137 z"
+       id="path8"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+	</svg:g>
+  </svg:g> 
+ <!--12h-->
+  <svg:g
+     transform="matrix(0.135,0,0,0.135,412,625)"
+	 id="symbol3">
+	 <svg:g
+	transform="translate(0,100)">
+   <svg:path
+       d="m 142.88417,51.351293 c -56.85907,0 -103.042526,46.21193 -103.042526,103.070997 0,37.3815 19.961331,70.14172 49.798667,88.20827 -5.765467,12.3096 -9.02583,26.2912 -9.02583,41.11451 0,6.31298 0.613221,12.47777 1.736832,18.42181 l 423.502217,0 c -0.86783,-51.04131 -38.55081,-92.10903 -84.90545,-92.10903 -13.72845,0 -26.67758,3.59572 -38.15335,9.9939 -9.96772,-50.86991 -50.90562,-88.97704 -99.88206,-88.97704 -13.47907,0 -26.34499,2.89642 -38.12488,8.14318 C 237.43512,89.547373 194.58127,51.351293 142.88417,51.351293 z m 0,9.50986 c 48.13075,0 87.67096,36.20578 92.93473,82.912367 -20.85114,12.0084 -37.50626,31.72792 -46.83751,55.74945 -8.57362,-3.42055 -17.80794,-5.26744 -27.44764,-5.26744 -28.15247,0 -52.93235,15.91173 -67.423232,40.03254 -26.876875,-16.42599 -44.787481,-46.01646 -44.787481,-79.86578 0,-51.72784 41.833289,-93.561137 93.561133,-93.561137 z"
+       id="path8"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+	</svg:g>
+  </svg:g>
+ <!--Datum einfügen-->
+  <svg:text
+     x="40"
+     y="733.50769"
+     id="text3146"
+     xml:space="preserve"
+     style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"><svg:tspan
+       x="40"
+       y="733.50769"
+       id="tspan3148">Montag, 31. März 2014</svg:tspan></svg:text>
+</svg:svg>

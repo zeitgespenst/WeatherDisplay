@@ -1,0 +1,24 @@
+    <svg:path
+       d="m 550.98862,351.5612 c -0.95248,-56.0201 -42.30141,-101.10167 -93.17769,-101.10167 -15.06759,0 -29.28807,3.97446 -41.88324,10.99674 -10.94001,-55.83198 -55.86826,-97.67502 -109.62208,-97.67502 l 0,0 c -46.23489,0 -85.91628,30.9606 -103.07962,75.14435 -9.40993,-3.7542 -19.56107,-5.78277 -30.14106,-5.78277 -49.04901,0 -88.794751,43.96113 -88.794751,98.21221 0,6.92878 0.648315,13.69021 1.881527,20.21405"
+       id="path3004"
+       style="fill:#000000;stroke:none" />
+    <svg:g
+       transform="translate(-58,-48)"
+       id="g3007">
+      <svg:path
+         d="M 222.71978,423.51952 148.47529,552.11475"
+         id="path3006"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 571.64835,427.80523 497.40386,556.40046"
+         id="path3010"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 455.33883,427.80523 381.09434,556.40046"
+         id="path3016"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+      <svg:path
+         d="M 339.0293,427.80523 264.78481,556.40046"
+         id="path3020"
+         style="fill:none;stroke:#000000;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+    </svg:g>

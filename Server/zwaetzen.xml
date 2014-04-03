@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<vdv453:DatenAbrufenAntwort xmlns:vdv453="vdv453ger">
+   <Bestaetigung Zst="2014-02-09T20:35:25" Ergebnis="ok" Fehlernummer="0"/>
+   <AZBNachricht AboID="1">
+      <AZBFahrplanlage Zst="2014-02-09T20:35:25">
+         <AZBID>16104</AZBID>
+         <FahrtID>
+            <FahrtBezeichner>-18566811</FahrtBezeichner>
+            <Betriebstag>2014-02-09</Betriebstag>
+         </FahrtID>
+         <HstSeqZaehler>10</HstSeqZaehler>
+         <LinienID>4</LinienID>
+         <LinienText>4</LinienText>
+         <RichtungsID>44</RichtungsID>
+         <RichtungsText>Zwätzen</RichtungsText>
+         <ZielHst>Zwätzen, Schleife</ZielHst>
+         <FahrtStatus>Ist</FahrtStatus>
+         <AnkunftszeitAZBPlan>2014-02-09T20:45:00</AnkunftszeitAZBPlan>
+         <AnkunftszeitAZBPrognose>2014-02-09T20:45:35</AnkunftszeitAZBPrognose>
+         <AbfahrtszeitAZBPlan>2014-02-09T20:45:00</AbfahrtszeitAZBPlan>
+         <AbfahrtszeitAZBPrognose>2014-02-09T20:45:35</AbfahrtszeitAZBPrognose>
+         <FahrtInfo>
+            <FahrzeugID>601</FahrzeugID>
+         </FahrtInfo>
+      </AZBFahrplanlage>
+      <AZBFahrplanlage Zst="2014-02-09T20:35:25">
+         <AZBID>16104</AZBID>
+         <FahrtID>
+            <FahrtBezeichner>-18566778</FahrtBezeichner>
+            <Betriebstag>2014-02-09</Betriebstag>
+         </FahrtID>
+         <HstSeqZaehler>10</HstSeqZaehler>
+         <LinienID>4</LinienID>
+         <LinienText>4</LinienText>
+         <RichtungsID>44</RichtungsID>
+         <RichtungsText>Zwätzen</RichtungsText>
+         <ZielHst>Zwätzen, Schleife</ZielHst>
+         <FahrtStatus>Ist</FahrtStatus>
+         <AnkunftszeitAZBPlan>2014-02-09T21:05:00</AnkunftszeitAZBPlan>
+         <AnkunftszeitAZBPrognose>2014-02-09T21:05:00</AnkunftszeitAZBPrognose>
+         <AbfahrtszeitAZBPlan>2014-02-09T21:05:00</AbfahrtszeitAZBPlan>
+         <AbfahrtszeitAZBPrognose>2014-02-09T21:05:00</AbfahrtszeitAZBPrognose>
+         <FahrtInfo>
+            <FahrzeugID>623</FahrzeugID>
+         </FahrtInfo>
+      </AZBFahrplanlage>
+      <AZBFahrplanlage Zst="2014-02-09T20:35:25">
+         <AZBID>16104</AZBID>
+         <FahrtID>
+            <FahrtBezeichner>-18566887</FahrtBezeichner>
+            <Betriebstag>2014-02-09</Betriebstag>
+         </FahrtID>
+         <HstSeqZaehler>2</HstSeqZaehler>
+         <LinienID>34</LinienID>
+         <LinienText>34</LinienText>
+         <RichtungsID>44</RichtungsID>
+         <RichtungsText>Zwätzen</RichtungsText>
+         <ZielHst>Zwätzen, Schleife</ZielHst>
+         <FahrtStatus>Soll</FahrtStatus>
+         <AnkunftszeitAZBPlan>2014-02-09T21:23:00</AnkunftszeitAZBPlan>
+         <AnkunftszeitAZBPrognose>2014-02-09T21:23:00</AnkunftszeitAZBPrognose>
+         <AbfahrtszeitAZBPlan>2014-02-09T21:23:00</AbfahrtszeitAZBPlan>
+         <AbfahrtszeitAZBPrognose>2014-02-09T21:23:00</AbfahrtszeitAZBPrognose>
+      </AZBFahrplanlage>
+   </AZBNachricht>
+</vdv453:DatenAbrufenAntwort>

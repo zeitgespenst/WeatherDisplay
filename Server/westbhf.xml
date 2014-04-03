@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<vdv453:DatenAbrufenAntwort xmlns:vdv453="vdv453ger">
+   <Bestaetigung Zst="2014-02-13T22:06:55" Ergebnis="ok" Fehlernummer="0"/>
+   <AZBNachricht AboID="1">
+   </AZBNachricht>
+</vdv453:DatenAbrufenAntwort>

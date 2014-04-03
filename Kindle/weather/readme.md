@@ -1,0 +1,1 @@
+All Data used for the WeatherDisplay is stored in this directory. It have to be placed in /mnt/us/weather.
