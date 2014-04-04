@@ -14,4 +14,4 @@ In the Kindle:
 
 License: MIT for Code and CC-BY-SA for Artwork
 
-![WeatherDisplay at work.](./Kindle/weather/screen.png "WeatherDisplay at work.")
+![WeatherDisplay at work.](action.jpg "WeatherDisplay at work.")
